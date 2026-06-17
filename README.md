@@ -1,40 +1,40 @@
-# Object Recognition Project
+# Object Recognition Using YOLO
 
 ## Overview
 
-This project implements Object Recognition and Detection using Deep Learning and Computer Vision techniques. The system is capable of identifying objects from input images and demonstrating the application of deep learning models for visual recognition tasks.
+This project implements an object recognition and detection system using YOLO (You Only Look Once), a real-time deep learning-based object detection algorithm. The model identifies and localizes objects within images with high accuracy and efficiency.
 
-## Project Files
+## Objective
 
-* Object_Recognition.ipynb – Main notebook containing model implementation and experiments.
-* streamlit_object_detection.ipynb – Streamlit-based object detection workflow.
-* DL documentation.pdf – Project documentation and explanation.
+To build a computer vision system capable of detecting and classifying objects in images using YOLO.
 
 ## Technologies Used
 
 * Python
-* Deep Learning
-* Computer Vision
-* Jupyter Notebook
+* YOLO
 * OpenCV
 * NumPy
-* Streamlit
+* Jupyter Notebook
 
 ## Features
 
-* Object detection and recognition from images.
-* Deep learning-based image processing.
-* Interactive notebook implementation.
-* Project documentation included.
+* Real-time object detection
+* Object localization with bounding boxes
+* Image preprocessing
+* Model evaluation and performance analysis
+
+## Project Structure
+
+* Object_Recognition.ipynb : Main notebook containing data preprocessing, model implementation, and evaluation.
 
 ## How to Run
 
 1. Clone the repository.
-2. Install the required Python libraries.
-3. Open the notebook in Jupyter Notebook or Google Colab.
-4. Run all cells sequentially.
-5. View the detection and recognition results.
+2. Open the notebook in Jupyter Notebook.
+3. Install the required libraries.
+4. Run all cells to perform object detection.
 
 ## Author
 
 Khushi Kakani
+
